@@ -1,0 +1,22 @@
+{
+  
+  "dependencies": [
+    {
+      "name": "asobo-aircraft-generic-privatejet",
+      "package_version": "0.1.33"
+    }
+  ],
+  "content_type": "AIRCRAFT",
+  "title": "AITrafficPrivateJetLiveries",
+  "manufacturer": "Asobo",
+  "creator": "Reaper",
+  "package_version": "0.1.33",
+  "minimum_game_version": "1.7.11",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000163060899"
+}

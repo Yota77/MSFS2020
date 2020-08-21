@@ -1,0 +1,44 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_PrivateJet/aircraft.cfg",
+      "size": 6839,
+      "date": 132349517970000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_PrivateJet/TEXTURE.TEMPLATE/GENERIC_PRIVATE_JET_ENGINES_ALBD_000.PNG.DDS",
+      "size": 2796344,
+      "date": 132400242238747144
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_PrivateJet/TEXTURE.TEMPLATE/GENERIC_PRIVATE_JET_ENGINES_ALBD_000.PNG.DDS.json",
+      "size": 102,
+      "date": 132400242238707146
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_PrivateJet/TEXTURE.TEMPLATE/GENERIC_PRIVATE_JET_FUSELAGE_ALBD_000.PNG.DDS",
+      "size": 2796344,
+      "date": 132400242233527295
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_PrivateJet/TEXTURE.TEMPLATE/GENERIC_PRIVATE_JET_FUSELAGE_ALBD_000.PNG.DDS.json",
+      "size": 102,
+      "date": 132400242233487305
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_PrivateJet/TEXTURE.TEMPLATE/GENERIC_PRIVATE_JET_WINGS_ALBD_000.PNG.DDS",
+      "size": 2796344,
+      "date": 132400242228647437
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_PrivateJet/TEXTURE.TEMPLATE/GENERIC_PRIVATE_JET_WINGS_ALBD_000.PNG.DDS.json",
+      "size": 102,
+      "date": 132400242228607450
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_PrivateJet/TEXTURE.TEMPLATE/texture.CFG",
+      "size": 63,
+      "date": 132192295570000000
+    }
+  ]
+}

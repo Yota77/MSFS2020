@@ -1,0 +1,34 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Piston_SingleEngine/aircraft.cfg",
+      "size": 6906,
+      "date": 132349517930000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Piston_SingleEngine/TEXTURE.TEMPLATE/GENERIC_PISTON_SINGLEENGINE_FUSELAGE_ALBD_000.PNG.DDS",
+      "size": 2796344,
+      "date": 132400143229232454
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Piston_SingleEngine/TEXTURE.TEMPLATE/GENERIC_PISTON_SINGLEENGINE_FUSELAGE_ALBD_000.PNG.DDS.json",
+      "size": 102,
+      "date": 132400143229192453
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Piston_SingleEngine/TEXTURE.TEMPLATE/GENERIC_PISTON_SINGLEENGINE_WINGS_ALBD_000.PNG.DDS",
+      "size": 2796344,
+      "date": 132400143222970929
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Piston_SingleEngine/TEXTURE.TEMPLATE/GENERIC_PISTON_SINGLEENGINE_WINGS_ALBD_000.PNG.DDS.json",
+      "size": 102,
+      "date": 132400143222930929
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Piston_SingleEngine/TEXTURE.TEMPLATE/texture.CFG",
+      "size": 63,
+      "date": 132192290680000000
+    }
+  ]
+}

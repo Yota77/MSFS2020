@@ -1,0 +1,21 @@
+{
+  "dependencies": [
+    {
+      "name": "asobo-aircraft-tbm930",
+      "package_version": "0.1.54"
+    }
+  ],
+  "content_type": "AIRCRAFT",
+  "title": "TBM 930 Livery Pack",
+  "manufacturer": "Daher",
+  "creator": "NinjaLabs",
+  "package_version": "0.1.54",
+  "minimum_game_version": "1.7.12",
+  "release_notes": {
+    "neutral": {
+      "LastUpdate": "",
+      "OlderHistory": ""
+    }
+  },
+  "total_package_size": "00000000000000834695"
+}

@@ -1,0 +1,44 @@
+{
+  "content": [
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Turbo_MultiEngines/aircraft.cfg",
+      "size": 6879,
+      "date": 132349518000000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Turbo_MultiEngines/TEXTURE.TEMPLATE/GENERIC_TURBO_MULTIENGINES_ENGINES_ALBD_000.PNG.DDS",
+      "size": 2796344,
+      "date": 132400240779482925
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Turbo_MultiEngines/TEXTURE.TEMPLATE/GENERIC_TURBO_MULTIENGINES_ENGINES_ALBD_000.PNG.DDS.json",
+      "size": 102,
+      "date": 132400240779442922
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Turbo_MultiEngines/TEXTURE.TEMPLATE/GENERIC_TURBO_MULTIENGINES_FUSELAGE_ALBD_000.PNG.DDS",
+      "size": 2796344,
+      "date": 132400240773573093
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Turbo_MultiEngines/TEXTURE.TEMPLATE/GENERIC_TURBO_MULTIENGINES_FUSELAGE_ALBD_000.PNG.DDS.json",
+      "size": 102,
+      "date": 132400240773533096
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Turbo_MultiEngines/TEXTURE.TEMPLATE/GENERIC_TURBO_MULTIENGINES_WINGS_ALBD_000.PNG.DDS",
+      "size": 1398248,
+      "date": 132400240767653271
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Turbo_MultiEngines/TEXTURE.TEMPLATE/GENERIC_TURBO_MULTIENGINES_WINGS_ALBD_000.PNG.DDS.json",
+      "size": 102,
+      "date": 132400240767633272
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Turbo_MultiEngines/TEXTURE.TEMPLATE/texture.CFG",
+      "size": 63,
+      "date": 132192295570000000
+    }
+  ]
+}

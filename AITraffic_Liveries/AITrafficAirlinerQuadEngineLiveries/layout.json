@@ -1,0 +1,64 @@
+{
+  "content": [},
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Airliner_QuadEngines/aircraft.cfg",
+      "size": 10779,
+      "date": 132385896510000000
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Airliner_QuadEngines/TEXTURE.TEMPLATE/GENERIC_AIRLINER_QUADENGINES_BELLY_ALBD.PNG.DDS",
+      "size": 1398248,
+      "date": 132400140705348937
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Airliner_QuadEngines/TEXTURE.TEMPLATE/GENERIC_AIRLINER_QUADENGINES_BELLY_ALBD.PNG.DDS.json",
+      "size": 102,
+      "date": 132400140705318935
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Airliner_QuadEngines/TEXTURE.TEMPLATE/GENERIC_AIRLINER_QUADENGINES_ENGINE_ALBD_000.PNG.DDS",
+      "size": 2796344,
+      "date": 132400140696813189
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Airliner_QuadEngines/TEXTURE.TEMPLATE/GENERIC_AIRLINER_QUADENGINES_ENGINE_ALBD_000.PNG.DDS.json",
+      "size": 102,
+      "date": 132400140696773185
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Airliner_QuadEngines/TEXTURE.TEMPLATE/GENERIC_AIRLINER_QUADENGINES_FUSELAGE00_ALBD_000.PNG.DDS",
+      "size": 1398248,
+      "date": 132400140702548756
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Airliner_QuadEngines/TEXTURE.TEMPLATE/GENERIC_AIRLINER_QUADENGINES_FUSELAGE00_ALBD_000.PNG.DDS.json",
+      "size": 102,
+      "date": 132400140702518755
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Airliner_QuadEngines/TEXTURE.TEMPLATE/GENERIC_AIRLINER_QUADENGINES_FUSELAGE01_ALBD_000.PNG.DDS",
+      "size": 1398248,
+      "date": 132400140699718838
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Airliner_QuadEngines/TEXTURE.TEMPLATE/GENERIC_AIRLINER_QUADENGINES_FUSELAGE01_ALBD_000.PNG.DDS.json",
+      "size": 102,
+      "date": 132400140699688839
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Airliner_QuadEngines/TEXTURE.TEMPLATE/GENERIC_AIRLINER_QUADENGINES_FUSELAGE02_ALBD_000.PNG.DDS",
+      "size": 2796344,
+      "date": 132400140710638827
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Airliner_QuadEngines/TEXTURE.TEMPLATE/GENERIC_AIRLINER_QUADENGINES_FUSELAGE02_ALBD_000.PNG.DDS.json",
+      "size": 102,
+      "date": 132400140710598829
+    },
+    {
+      "path": "SimObjects/Airplanes/Asobo_Generic_Airliner_QuadEngines/TEXTURE.TEMPLATE/texture.CFG",
+      "size": 63,
+      "date": 132192297370000000
+    }
+  ]
+}
