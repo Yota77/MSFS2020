@@ -4,7 +4,7 @@ Microsoft Flight Simulator 2020
 Collection Livreries and much more! 
 
 Disclaimer:
-   -You can only have one single Livrery in this folder. If you want more than one, you have to merge it.
+   -You can only have one single Livrery in community folder. If you want more than one, you have to merge it.
 
 1. **How To install:**
    1. Windows Version: Copy your favorite Livery folder in %localappdata%\Packages\Microsoft.FlightSimulator_$yourmagicnumber$\LocalCache\Packages\Community
