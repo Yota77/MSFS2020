@@ -16,3 +16,7 @@ Disclaimer:
    1. Put all TEXTURE.$aircompany$ in the same folder, then modify layout.json and aircraft.cfg   
    2. for Aircraft.cfg just add a new [FLTSIM.X], where x is a counter/number then add your Livrery. (Remember FLTSIM.0 is the default one)
    3. for layout.json just add the path of the TEXTURE.$aircompany$
+
+
+3. **Coming Soon:**
+   1. AllInOne project for all livreries
